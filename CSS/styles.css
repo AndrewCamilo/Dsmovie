@@ -10,7 +10,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans'; sans-serif;
+    font-family: 'Open Sans', sans-serif; 
   }
 
 
@@ -104,3 +104,8 @@ a, a:hover {
     border-radius: 4px;
 }
 
+.dsmovie-form-container {
+    padding: 40px 0;
+    max-width: 480px;
+    
+}
